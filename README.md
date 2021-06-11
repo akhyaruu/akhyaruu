@@ -1,3 +1,3 @@
 ### Hi there 👋 i'm ilham
 
-simple yet powerful man who's willing to learn new things
+fullstack thinker and lifelong learner, mostly working with server side system
