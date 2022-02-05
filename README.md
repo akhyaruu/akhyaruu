@@ -1,3 +1,3 @@
 ### Hi there 👋 i'm ilham
 
-fullstack thinker and lifelong learner, mostly working with python and backend related stuff
+currently research student and part-time developer, mostly working with python and other backend related stuff
