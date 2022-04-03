@@ -1,3 +1,3 @@
-### Hi there 👋 i'm ilham
+### Hi 👋 i'm ilham
 
-currently research student and part-time developer, mostly working with python and other backend related stuff
+currently i'm research student and half-time developer, mostly working with python and other backend related stuff
